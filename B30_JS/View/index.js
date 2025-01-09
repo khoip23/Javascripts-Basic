@@ -44,3 +44,18 @@ window.handleClick() = function(){
     console.log("Hello world");
     console.log('123');
 }
+
+window.handleClick1() = function(){
+    console.log("Hello world");
+    console.log('123');
+}
+
+window.handleClick2() = function(){
+    console.log("Hello world");
+    console.log('123');
+}
+
+window.handleClick3() = function(){
+    console.log("Hello world");
+    console.log('123');
+}
